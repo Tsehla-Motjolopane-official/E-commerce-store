@@ -2,6 +2,10 @@
 
 A modern, responsive e-commerce website built with HTML, CSS, and JavaScript. This project features a clean and user-friendly interface for shopping clothing and accessories.
 
+## UI Preview
+
+![E-Commerce Store UI](Images/UI_screenshot.png)
+
 ## Features
 
 - 📱 Fully responsive design
