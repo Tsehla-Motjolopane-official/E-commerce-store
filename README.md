@@ -79,15 +79,6 @@ git clone https://github.com/Tsehla-Motjolopane-official/Dev_Web.git
 - Easy navigation menu
 - Touch-friendly interface
 
-## Social Links
-
-Follow us on:
-- Facebook
-- Twitter
-- Instagram
-- Pinterest
-- YouTube
-
 ## Copyright
 
 © 2021-2025 Tech2 etc - HTML CSS Ecommerce Template
@@ -103,6 +94,3 @@ Follow us on:
 ## License
 
 This project is licensed under standard copyright laws. All rights reserved.
-
-
-Made with ❤️ by Tsehla Motjolopane
